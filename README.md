@@ -1,0 +1,2 @@
+# TrustLoker
+Aplikasi cari magang
