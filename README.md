@@ -17,14 +17,11 @@ TrustLoker adalah platform lowongan magang dan kerja paruh waktu untuk mahasiswa
 ```
 TrustLoker/
 ├── Diagram/
-│   ├── BPMN_AsIs.png
-│   ├── BPMN_ToBe.png
-│   ├── Persona.png
-│   ├── UseCase.png
-│   ├── Activity_1_Melamar_Lowongan.png
-│   ├── Activity_2_Pelaporan_Laporan.png
-│   ├── Activity_3_Kelola_Listing.png
-│   └── ClassDiagram.png
+│   ├── BPMN as-is & to-be.png
+│   ├── User Persona.png
+│   ├── Use Case.png
+│   ├── Activity Diagram.png
+│   └── Class Diagram.png
 ├── Dokumen/
 │   ├── SRS_TrustLoker_v1.0.pdf
 │   ├── UseCase_Specification.pdf
